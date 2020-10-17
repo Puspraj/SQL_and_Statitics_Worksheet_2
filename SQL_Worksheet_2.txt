@@ -1,0 +1,34 @@
+Question No., Correct Option, Answer
+
+1> d, Unique
+
+2> d, None of them
+
+3> a, Each entry in the primary key uniquely identifies each entry or row in the table
+
+4> a, There should not be any duplicate entries
+
+5> b, Foreign Key
+
+6> d, 1
+
+7> c, One to One
+
+8> 8, One to One 
+
+9> a, delivery id
+
+10> b, 1
+
+11> c, One to One
+
+12> a,b, Rows of table, Columns of table
+
+13> a, Insert in to
+
+
+More than one correct option.
+
+14> b,c Unique, Primary key
+
+15> 

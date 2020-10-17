@@ -1,0 +1,31 @@
+Question No., Correct Option, Answer
+
+1> a, SD
+
+2> c, 12
+
+3> a, An approximate indicator of how number vary from the mean
+
+4> a, Exhaustive
+
+5> d, All of these
+
+6> b, Data set
+
+7> d, 1 or more
+
+8> b, Scatterplot
+
+9> d, Analysis of varience
+
+10> a, Z-score
+
+11> c, mean
+
+12> d, 400005.2
+
+13> d, mean
+
+14> b, Mutually exclusive and mutually exhaustive properties
+
+15> d, H-L
